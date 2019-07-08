@@ -1,9 +1,9 @@
 version: 2.0
+id: test-colophon-repo
 about:
   title: test-colophon-repo
 contacts:
-  - type: Lead Developer
-    name: Matt Seburn
+  - name: Matt Seburn
     email: matt.seburn@telus.com
 environments:
   - title: dummy
